@@ -1,16 +1,8 @@
 # Employee-management-System
 
-INTRODUCTION :
-In this project, I have tried to frame the Employee Management System which uses the concept of creating a GUI application using java programming language.
-Here, MySQL is used for a data management regarding the information of an employee. 
-So, combo of them is used for the basic construction of the project.  
-The concepts of java “awt” and “swings” are used as the prime source for creating the various windows as shown below. 
-Similarly, the simple SQL are used for the data manipulation in the application. Here, we have created total  classes for every process to run efficiently.
+This project presents an Employee Management System developed using Java programming language, integrating a Graphical User Interface (GUI) and MySQL for efficient data management. The project utilizes Java's "awt" and "swings" concepts to create various windows, while employing simple SQL queries for data manipulation.
 
-FLOW :
-From the front page the execution starts after which we have to login into the system with correct username and password otherwise it displays error message.
-Then the details page opens where we have all options to work on application. If we want to add then we have to click add button and by filling details we have to submit.
-If want to view the same then click the view button and by passing employee ID we can view it.
-Similarly, to update and remove the records we have to click the respective buttons from the details page and by providing specific employee ID 
-the entry will be deleted and updated. In this way the whole code runs smoothly and efficiently.
+The execution begins from the front page, where users must successfully log in with the correct username and password to access the system. Once logged in, the details page displays various options for interacting with the application. To add an employee, users click the "add" button and submit the required details. To view employee information, the "view" button is utilized, requiring the input of the employee ID. Updating and removing records is accomplished by clicking the respective buttons on the details page and providing the specific employee ID.
+
+This streamlined and efficient system allows for smooth execution of operations, ensuring seamless management of employee dat
 
